@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Top.unity
+    guid: 6c88da0802ea4d943b2a3881fbbb74bd
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: 299dbb3f5b4a1b84fbe5b5cc91060260
+  - enabled: 1
+    path: Assets/Scenes/info2.unity
+    guid: f26e50072a5736542be70f9cb946109f
+  - enabled: 1
+    path: Assets/Scenes/Measure.unity
+    guid: c409d40cfa25b39459c86c8643f5df5e
+  - enabled: 1
+    path: Assets/Scenes/Result.unity
+    guid: 82509c39c8f8abc4c9dc57f62c059544
+  - enabled: 1
+    path: Assets/Scenes/Shibou.unity
+    guid: 00471784736f31f4aa20b460f90784e7
+  m_configObjects: {}
